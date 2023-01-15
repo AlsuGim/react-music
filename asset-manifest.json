@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-music/static/css/main.90df280d.css",
+    "main.js": "/react-music/static/js/main.cb2bbd64.js",
+    "index.html": "/react-music/index.html",
+    "main.90df280d.css.map": "/react-music/static/css/main.90df280d.css.map",
+    "main.cb2bbd64.js.map": "/react-music/static/js/main.cb2bbd64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90df280d.css",
+    "static/js/main.cb2bbd64.js"
+  ]
+}
